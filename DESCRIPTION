@@ -1,0 +1,11 @@
+Package: spleen
+Type: Package
+Title: The spleen package provide Rcpp fast code to generate M-spline and I-spline basis.
+Version: 1.0
+Date: 2019-10-10
+Author: C. Segalas
+Maintainer: corentin.segalas@u-bordeaux.fr
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp, RcppArmadillo
