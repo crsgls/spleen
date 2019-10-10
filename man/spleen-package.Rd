@@ -13,7 +13,7 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{spleen}
 \packageIndices{spleen}
-~~ An overview of how to use the package spleen, including the most important functions ~~
+~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
 \packageAuthor{spleen}
